@@ -1,0 +1,6 @@
+[submodule "waf/bypass_waf"]
+	path = waf/bypass_waf
+	url = https://github.com/3xp10it/bypass_waf.git
+[submodule "sql/sqlmap-git"]
+	path = sql/sqlmap-git
+	url = https://github.com/sqlmapproject/sqlmap.git
